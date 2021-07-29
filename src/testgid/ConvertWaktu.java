@@ -53,6 +53,13 @@ public class ConvertWaktu {
             }else{                
                 hour = String.valueOf(h);
             }
+        }else if(temp.equals("PM")){
+            int h=Integer.parseInt(hour);
+            if(h<12){
+                h+=12;
+            }
+            
+            hour = String.valueOf(h);
         }
         
         System.out.println(waktu + " => " + hour + ":" + minute);
