@@ -1,6 +1,7 @@
 # TestGID-RiskyKurniawan
 
 Nama    : Risky Kuriawan
+
 Kampus  : Universitas Adhirajasa Reswara Sanjaya
 
 Diajukan untuk memenuhi tes studi independen gits.id
